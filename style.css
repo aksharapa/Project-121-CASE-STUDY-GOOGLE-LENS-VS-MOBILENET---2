@@ -1,0 +1,45 @@
+p{
+    color: red;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+.mobilenet{
+    letter-spacing: 2px;
+}
+
+.img{
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+.white1{
+    color: white;
+}
+span{
+    letter-spacing: 1px;
+    color: red;
+}
+b{
+    color: purple;
+}
+.first, .secong{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
+.test_image_and_results{
+    margin-top: 15px;
+    background-color: grey;
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(155, 153, 153);
+    width: 99%;
+    margin-bottom: 15px;
+}
+.google_lens{
+    color: black;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
